@@ -28,9 +28,16 @@ The Budget document was created in the form of a Microsoft Excel document. This 
 
 [mySafeUV Budget Sheet](https://github.com/pctn0007/mySafeUV/blob/master/Documentation/Hardware_budget.xlsx)
 
-
 ### October 2nd, 2018
 
+Alterations were made to the original Budget sheet (i.e. the source of puchases) in order to produce a lower total budget cost. Instead of using common USA based sources, additional Canadian based companies were found that helped reduce my overal shipping costs by $53.
+Please note the invoices below are strictly based on mandatory items (eg. Raspberry Pi 3 and VEML6070 sensor purchases). Additional purchases may be made from local hardware/computer stores for cables if reuired. Please refer to the links below:
+
+[Raspberry Pi 3 Invoice](https://github.com/pctn0007/mySafeUV/blob/master/Documentation/raspberry_invoice.png)
+[VEML6070 UV Index Sensor Invoice](https://github.com/pctn0007/mySafeUV/blob/master/Documentation/sensor_invoice.png)
+
 ### October 9th, 2018
+
+Reading Break - No commits or documentation submitted. No additional information to report.
 
 ### October 16th, 2018
