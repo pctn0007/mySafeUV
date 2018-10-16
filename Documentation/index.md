@@ -8,6 +8,13 @@ title: index schedule
 Anthony Pacitto's Hardware Blog - mySafeUV
 ----------------------------------------------
 
+### September 6th, 2018
+
+The selection of a address 0x39, also known as the VEML6070 UV Index Sensor was selected via the specification list provided by our supervising instructor. An discussion board submission was logged to claim the address/sensor and the creation of mySafeUV project name was assigned. Please refer to the link below for Fall 2018 I2C slave device and list item 24. with the assigned name Anthony:
+
+[mySafeUV Sensor Selection 0x39](https://six0four.github.io/ceng317/)
+
+
 ### September 11th, 2018
 
 The mySafeUV GitHub public Repository was created for storing and modification of all hardware-based documentation.
