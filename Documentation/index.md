@@ -24,7 +24,10 @@ The mySafeUV Project Schedule (i.e. Gantt Chart via Microsoft Project) was creat
 
 ### September 25th, 2018
 
-The Budget document was created in the form of a Microsoft Excel document. This excel sheet includes all cost details and description of any and all parts that are to be ordered by October 2nd, 2018. Subtotals, Taxes, Grand Totals, Shipping costs and currency exchange rates based on USD to CAD 
+The Budget document was created in the form of a Microsoft Excel document. This excel sheet includes all cost details and description of any and all parts that are to be ordered by October 2nd, 2018. All subtotals, taxes, grand totals, shipping costs and currency exchange rates based on USD to CAD have been provide per item.
+
+[mySafeUV Budget Sheet](https://github.com/pctn0007/mySafeUV/blob/master/Documentation/Hardware_budget.xlsx)
+
 
 ### October 2nd, 2018
 
