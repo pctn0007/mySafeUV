@@ -41,3 +41,12 @@ Please note the invoices below are strictly based on mandatory items (eg. Raspbe
 Reading Break - No commits or documentation submitted. No additional information to report.
 
 ### October 16th, 2018
+
+Due to certain personal constraints, alterations were made to the parts orderlist (i.e. contacting vendors to reduce delivery times).
+In addition, further discussions occured between myself and the supervising instructor in order to maintain a stable development process by meeting all critical path requirements and future milestone/module due dates (as displayed in the Gantt Chart). No documentation commits occured during this time.
+
+### October 16th, 2018
+
+Pending.
+
+
