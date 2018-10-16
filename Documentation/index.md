@@ -41,6 +41,7 @@ Alterations were made to the original Budget sheet (i.e. the source of puchases)
 Please note the invoices below are strictly based on mandatory items (eg. Raspberry Pi 3 and VEML6070 sensor purchases). Additional purchases may be made from local hardware/computer stores for cables if reuired. Please refer to the links below:
 
 [Raspberry Pi 3 Invoice](https://github.com/pctn0007/mySafeUV/blob/master/Documentation/raspberry_invoice.png)
+
 [VEML6070 UV Index Sensor Invoice](https://github.com/pctn0007/mySafeUV/blob/master/Documentation/sensor_invoice.png)
 
 ### October 9th, 2018
