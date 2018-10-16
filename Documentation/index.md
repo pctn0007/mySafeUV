@@ -19,11 +19,14 @@ The mySafeUV project proposal was submitted and comitted for review. Please refe
 
 ### September 18th, 2018
 
+The mySafeUV Project Schedule (i.e. Gantt Chart via Microsoft Project) was created and committed. This document will provide a detailed approach on a week-to-week critical path that establishes deadlines, tasks and timeframe of development. Please refer to the link below:
+
+[mySafeUV Project Schedule]
+(https://github.com/pctn0007/mySafeUV/blob/master/Documentation/mySafeUVProject.mpp)
 
 ### September 25th, 2018
 
 ### October 2nd, 2018
-
 
 ### October 9th, 2018
 
