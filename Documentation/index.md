@@ -51,10 +51,13 @@ Reading Break - No commits or documentation submitted. No additional information
 ### Week 7 - October 16th, 2018
 
 Due to certain personal constraints, alterations were made to the parts orderlist (i.e. contacting vendors to reduce delivery times).
-In addition, further discussions occured between myself and the supervising instructor in order to maintain a stable development process by meeting all critical path requirements and future milestone/module due dates (as displayed in the Gantt Chart). No documentation commits occured during this time.
+In addition, further discussions occured between myself and the supervising instructor in order to maintain a stable development process by meeting all critical path requirements and future milestone/module due dates (as displayed in the Gantt Chart).
 
-### Week 8 - October 16th, 2018
+### Week 7 cont. - October 17th, 2018
 
-Pending.
+A standard breadboarding diagram was created using Fritzing software application. The diagram contains the basic connections between the Raspberry Pi 3 and the VEML6070 sensor, using the VIN (5V), SCL, GND and SDA pins. However, to form a ACK connection (outputs warnings of very High UV index readings) is still to be determined: Please refer to the Fritzing diagram file below:
+
+[VEML6070 UV Index Breadboarding Prints](https://github.com/pctn0007/mySafeUV/blob/master/Documentation/sensor_invoice.png)
+
 
 
