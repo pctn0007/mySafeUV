@@ -59,5 +59,9 @@ A standard breadboarding diagram was created using Fritzing software application
 
 [VEML6070 UV Index Breadboarding Prints](https://github.com/pctn0007/mySafeUV/blob/master/Documentation/mySafeUV_Breadboard.fzz)
 
+### Week 8 - October 23th, 2018
+
+To start, minor changes were made to the breadboard diagram using Fritzing Beta software. All wire colors were altered as well as a correction that required altering the connection between the SCL on the sensor with the correct pin on the Pi 3. In accordance to the original Gantt documentation, I am now on track with both the budget, parts aquirements and breadboard assembly (i.e. due for Oct 23, 2018). In addition, I was able to successfully connect my Pi 3 to the Lab PC in order to detect both addresses of 0x38 and 0x39 as stated in the sensor data specifications. Please refer to the image below:
+
 
 
