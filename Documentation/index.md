@@ -57,7 +57,7 @@ In addition, further discussions occured between myself and the supervising inst
 
 A standard breadboarding diagram was created using Fritzing software application. The diagram contains the basic connections between the Raspberry Pi 3 and the VEML6070 sensor, using the VIN (5V), SCL, GND and SDA pins. However, to form a ACK connection (outputs warnings of very High UV index readings) is still to be determined: Please refer to the Fritzing diagram file below:
 
-[VEML6070 UV Index Breadboarding Prints](https://github.com/pctn0007/mySafeUV/blob/master/Documentation/mySafeUV_Breadboard.fzz)
+[VEML6070 UV Index Breadboarding Prints](https://github.com/pctn0007/mySafeUV/blob/master/Documentation/mySafeUV_Breadboard_bb.jpg)
 
 ### Week 8 - October 23th, 2018
 
