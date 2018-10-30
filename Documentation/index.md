@@ -8,6 +8,13 @@ title: index schedule
 Anthony Pacitto's Hardware Blog - mySafeUV (Descending order of logs)
 ---------------------------------------------------------------------
 
+### Week 9 - October 30th, 2018
+
+The PCB diagram was created in Fritzing Beta. Copper wire labels, Via placement and wire organization was modified prior to being advised by the Instructor. The current budget still remains with a $40.32 "emergency fund" that will allow for any misc. parts (if needed). The image file below indicates the all final PCB components prior to cutting:
+
+![PCB Diagram - Fritzing](https://github.com/pctn0007/mySafeUV/blob/master/Documentation/VEML6070_I2C_Detect.jpg)
+
+
 ### Week 8 - October 23th, 2018
 
 To start, minor changes were made to the breadboard diagram using Fritzing Beta software. All wire colors were altered as well as a correction that required altering the connection between the SCL on the sensor with the correct pin on the Pi 3. In accordance to the original Gantt documentation, I am now on track with both the budget, parts aquirements and breadboard assembly (i.e. due for Oct 23, 2018). In addition, I was able to successfully connect my Pi 3 to the Lab PC in order to detect both addresses of 0x38 and 0x39 as stated in the sensor data specifications. Please refer to the image below:
