@@ -12,7 +12,7 @@ Anthony Pacitto's Hardware Blog - mySafeUV (Descending order of logs)
 
 The PCB diagram was created in Fritzing Beta. Copper wire labels, Via placement and wire organization was modified prior to being advised by the Instructor. The current budget still remains with a $40.32 "emergency fund" that will allow for any misc. parts (if needed). The image file below indicates the all final PCB components prior to cutting:
 
-![PCB Diagram - Fritzing](https://github.com/pctn0007/mySafeUV/blob/master/Documentation/VEML6070_I2C_Detect.jpg)
+![PCB Diagram - Fritzing](https://github.com/pctn0007/mySafeUV/blob/master/Documentation/mySafeUV_Breadboard_pcb.jpg)
 
 
 ### Week 8 - October 23th, 2018
