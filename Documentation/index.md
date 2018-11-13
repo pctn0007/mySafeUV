@@ -16,8 +16,10 @@ Anthony Pacitto's Hardware Blog - mySafeUV (Descending order of logs)
 
 Due to illness this past week, I was not able to attend the class in-person and therefore, was not able to retrieve my PCB via prototype lab. However, in order to make up for this, I have used additional time over the past week at home to create simple source code for the VEML6070 in order to detect sample UV index readings that can change when a tinted visor (i.e. sunglasses) are applied over the sensor. As a result, by doing this while I was away from Humber College, it allowed me to keep on track with respect to my Critical Path (only difference is the source code for the sensor started before PCB wwas obtained). Upon my return, I plan to pick-up my board and solder my sensor to it and continue finishing up the source code for UV detection. Below is an example of both a sample output and source code for the VEML6070 sensor UV intensity readings.
 
+![mySafeUV output](https://github.com/pctn0007/mySafeUV/blob/master/Documentation/mySafeUV_output.pdf)
 
 VEML6070.java sample source code:
+
 	```
 	import com.pi4j.io.i2c.I2CBus;
 	import com.pi4j.io.i2c.I2CDevice;
