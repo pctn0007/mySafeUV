@@ -8,9 +8,16 @@ title: index schedule
 Anthony Pacitto's Hardware Blog - mySafeUV (Descending order of logs)
 ---------------------------------------------------------------------
 
+### Week 11 - November 13th, 2018
+
+
+
 ### Week 10 - November 6th, 2018
 
 Due to illness this past week, I was not able to attend the class in-person and therefore, was not able to retrieve my PCB via prototype lab. However, in order to make up for this, I have used additional time over the past week at home to create simple source code for the VEML6070 in order to detect sample UV index readings that can change when a tinted visor (i.e. sunglasses) are applied over the sensor. As a result, by doing this while I was away from Humber College, it allowed me to keep on track with respect to my Critical Path (only difference is the source code for the sensor started before PCB wwas obtained). Upon my return, I plan to pick-up my board and solder my sensor to it and continue finishing up the source code for UV detection. 
+
+![PCB Diagram - Fritzing](https://github.com/pctn0007/mySafeUV/blob/master/Documentation/2018_11_13 11_59 AM Office Lens.pdf)
+
 
 ### Week 9 - October 30th, 2018
 
