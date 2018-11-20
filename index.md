@@ -12,6 +12,7 @@ Anthony Pacitto's Hardware Blog - mySafeUV (Descending order of logs)
 
 
 
+
 ### Week 11 - November 13th, 2018
 
 As explained in prior posts, due to illness I had switched the tasks from week 10 to 1 and vice-verca. In this week I submitted my PCB following its printing from the prototype lab.
