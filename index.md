@@ -15,7 +15,7 @@ Anthony Pacitto's Hardware Blog - mySafeUV (Descending order of logs)
 ### Week 11 - November 13th, 2018
 
 As explained in prior posts, due to illness I had switched the tasks from week 10 to 1 and vice-verca. In this week I submitted my PCB following its printing from the prototype lab.
-However, in order to accomodate a more compact case, I have decided to mount the PCB onto the Raspberry Pi in a different direction (flipping the PCB 180 degrees). This allowed for the planned case dimensions to be reduced by ~1 inch in width. 
+However, in order to accomodate a more compact case, I have decided to mount the PCB onto the Raspberry Pi in a different direction (flipping the PCB 180 degrees). This allowed for the planned case dimensions to be reduced by ~1 inch in width when comapred to original planned dimensions. 
 
 ![mySafeUV PCB](https://github.com/pctn0007/mySafeUV/blob/master/Documentation/20181120_124350_HDR.jpg)
 
