@@ -9,7 +9,7 @@ Anthony Pacitto's Hardware Blog - mySafeUV (Descending order of logs)
 ---------------------------------------------------------------------
 ### Week 13 - November 27, 2018
 
-Today, I prepared all information regarding mySafeUV hardware project in preperation for the final presentation due on December 4, 2018. As of now I am currently finishing up converting all UV intensity values to actual readable values with respect to UV index readings (i.e. Low, High, Extreme, etc.) which are then displayed as the sensors output throught the Pi's terminal console. In addition, I have started creating a Powerpoint presentation file that includes all required documents (per slide; 5 in total) as stated over the course website.
+Today, I prepared all information regarding mySafeUV hardware project in preperation for the final presentation due on December 4, 2018. As of now I am currently finishing up converting all UV intensity values to actual readable values with respect to UV index readings (i.e. Low, High, Extreme, etc.) which are then displayed as the sensors output throught the Pi's terminal console (see week 10 image for default UV intensity values that must be converted to a more meaningful output). In addition, I have started creating a Powerpoint presentation file that includes all required documents (per slide; 5 in total) as stated over the course website.
 
 ### Week 12 - November 20, 2018
 
