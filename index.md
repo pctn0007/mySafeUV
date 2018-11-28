@@ -7,10 +7,13 @@ title: index schedule
 
 Anthony Pacitto's Hardware Blog - mySafeUV (Descending order of logs)
 ---------------------------------------------------------------------
+### Week 13 - November 27, 2018
+
+Today, I prepared all information regarding mySafeUV hardware project in preperation for the final presentation due on December 4, 2018. As of now I am currently finishing up converting all UV intensity values to actual readable values with respect to UV index readings (i.e. Low, High, Extreme, etc.) which are then displayed as the sensors output throught the Pi's terminal console. In addition, I have started creating a Powerpoint presentation file that includes all required documents (per slide; 5 in total) as stated over the course website.
 
 ### Week 12 - November 20, 2018
 
-This week I was able to complete the PCB enclosure for the mySafeUV and it was successfully sent off to the Prototype lab for printing. Unfortunetly, a majority of the enclosure file was produced off campus (i.e. with 1 lab period) and therefore, I am using my own judgement, as well as visual confirmation from other students in order to determine if dimension layout looked correct in order to minimize the risk for error and reducing the possiblity of having to re-print a second time.
+This week I was able to complete the PCB enclosure for the mySafeUV and it was successfully sent off to the Prototype lab for printing. Unfortunetly, a majority of the enclosure file was produced off campus (i.e. with 1 lab period) and therefore, I am using my own judgement, as well as visual confirmation from other students in order to determine if dimension layout looked correct in order to minimize the risk for error and reducing the possiblity of having to re-print a second time. Unfortunatly, the future tasks of next semester is still pending since I am not sure if I will be returning as a student to Humber College. 
 
 
 ### Week 11 - November 13th, 2018
