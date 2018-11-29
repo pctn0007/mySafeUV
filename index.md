@@ -15,6 +15,7 @@ Today, I prepared all information regarding mySafeUV hardware project in prepera
 
 This week I was able to complete the PCB enclosure for the mySafeUV and it was successfully sent off to the Prototype lab for printing. Unfortunetly, a majority of the enclosure file was produced off campus (i.e. with 1 lab period) and therefore, I am using my own judgement, as well as visual confirmation from other students in order to determine if dimension layout looked correct in order to minimize the risk for error and reducing the possiblity of having to re-print a second time. Unfortunatly, the future tasks of next semester is still pending since I am not sure if I will be returning as a student to Humber College. 
 
+![mySafeUV Enclosure](https://github.com/pctn0007/mySafeUV/blob/master/Documentation/20181120_124350_HDR.jpg)
 
 ### Week 11 - November 13th, 2018
 
