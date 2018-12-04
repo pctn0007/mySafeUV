@@ -11,11 +11,15 @@ Anthony Pacitto's Hardware Blog - mySafeUV (Descending order of logs)
 
 Today, I prepared all information regarding mySafeUV hardware project in preperation for the final presentation due on December 4, 2018. As of now I am currently finishing up converting all UV intensity values to actual readable values with respect to UV index readings (i.e. Low, High, Extreme, etc.) which are then displayed as the sensors output throught the Pi's terminal console (see week 10 image for default UV intensity values that must be converted to a more meaningful output). In addition, I have started creating a Powerpoint presentation file that includes all required documents (per slide; 5 in total) as stated over the course website.
 
+
+![mySafeUV Presentation](https://github.com/pctn0007/mySafeUV/blob/master/mySafeUV.pptx)
+      
+
 ### Week 12 - November 20, 2018
 
 This week I was able to complete the PCB enclosure for the mySafeUV and it was successfully sent off to the Prototype lab for printing. Unfortunetly, a majority of the enclosure file was produced off campus (i.e. with 1 lab period) and therefore, I am using my own judgement, as well as visual confirmation from other students in order to determine if dimension layout looked correct in order to minimize the risk for error and reducing the possiblity of having to re-print a second time. Unfortunatly, the future tasks of next semester is still pending since I am not sure if I will be returning as a student to Humber College. Please see the attached PDF document image and Corel file below:
 
-![mySafeUV PCB](https://github.com/pctn0007/mySafeUV/blob/master/Documentation/case1.jpg)
+![mySafeUV Case](https://github.com/pctn0007/mySafeUV/blob/master/Documentation/case1.jpg)
 
 ![mySafeUV Enclosure](https://github.com/pctn0007/mySafeUV/blob/master/Documentation/Pi2CaseX6.pdf)
 
