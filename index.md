@@ -7,6 +7,15 @@ title: index schedule
 
 Anthony Pacitto's Hardware Blog - mySafeUV (Descending order of logs)
 ---------------------------------------------------------------------
+
+### Week 14 - December 4, 2018
+
+Today, I provided a presentation on the final build of my hardware device with the enclosure. In the presentation PowerPoint, I included the following details that revolved around the project: i) Introduction/proposal, 2) Hardware budget, 3) Task Schedule (week-to-week basis), 4) Sample images of address/reading outputs and case enclosure, 5) Specified list of courses that helped me with this project.
+Please note that the presentation file is as follows:
+
+![mySafeUV Presentation](https://github.com/pctn0007/mySafeUV/blob/master/mySafeUV.pptx)
+
+
 ### Week 13 - November 27, 2018
 
 Today, I prepared all information regarding mySafeUV hardware project in preperation for the final presentation due on December 4, 2018. As of now I am currently finishing up converting all UV intensity values to actual readable values with respect to UV index readings (i.e. Low, High, Extreme, etc.) which are then displayed as the sensors output throught the Pi's terminal console (see week 10 image for default UV intensity values that must be converted to a more meaningful output). In addition, I have started creating a Powerpoint presentation file that includes all required documents (per slide; 5 in total) as stated over the course website.
