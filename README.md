@@ -46,5 +46,14 @@ During this stage of development, it is important to focus much attention to det
 
 ![mySafeUV PCB](https://github.com/pctn0007/mySafeUV/blob/master/Documentation/20181120_124350_HDR.jpg)
 
+# Step 4 - Connecting Our Device to a Pi:
+
+In order to get an actual reading via the sensor we have just soldered to out PCB, we must connect to an input/output source, such as your new Raspberry Pi! First, you want to make sure that the sensors male pins are aligned properly with a set of female stubs connecting to your Pi's male pins. Once you have mounted the sensor to your pi and your pi to an output (i.e. monitor or tv), youre ready to program. Now, keep in mind this step could be performed in Step 1 after receiving a testing breadboard and sensor (i.e. this will help you detect a faulty sensor before soldering it to anything; saves some time and avoids error which may inflict a lag in a Critical Path). 
+
+The first step you should take in programming your device is to detect the appropriate address that your sensor might require. For example, the VEML6070 uses addresses 0x38 and 0x39, as indicated in the example output below:
+
+![VEML6070 UV Index I2C Detection](https://github.com/pctn0007/mySafeUV/blob/master/Documentation/VEML6070_I2C_Detect.jpg)
+
+In order to detect your device, you can use the sample code listied below:
 
 
