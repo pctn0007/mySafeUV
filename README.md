@@ -33,7 +33,7 @@ To start, it is important to get an idea and make note of all the required hardw
 
 # Step 2 - Building an efficient circuit:
 
-Now that you have all your parts and you have determined how to connect your sensor device, it is time to build an actual PCB structure. First, planning is important. I recommend using Fritzing (Beta) once again by switching over to the PCB view on the top display tabs. It is important here to make sure that all copper leads are placed in the most efficient manner and are connected on the propper sides of the PCB. Moreso, Yellow lines in the tool indicate the top view of the board, while the orange lines indicate the bottom. To connect the both surfaces together, use VIA's to link them together. Below is an example PCB design before printing. Keep in mind its not the most efficient structure; however, all lines are laid out correctly.
+Now that you have all your parts and you have determined how to connect your sensor device, it is time to build an actual PCB structure. First, planning is important. I recommend using Fritzing (Beta) once again by switching over to the PCB view on the top display tabs. It is important here to make sure that all copper leads are placed in the most efficient manner and are connected on the propper sides of the PCB. Moreso, Yellow lines in the tool indicate the top view of the board, while the orange lines indicate the bottom. To connect the both surfaces together, use VIA's to link them together. Below is an example PCB design before printing. Keep in mind its not the most efficient layout; however, all linings are place on the correct sides of the board.
 
 ![PCB Diagram - Fritzing](https://github.com/pctn0007/mySafeUV/blob/master/Documentation/mySafeUV_Breadboard_pcb.jpg)
 
