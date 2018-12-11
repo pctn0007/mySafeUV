@@ -28,4 +28,6 @@ To start, it is important to get an idea and make note of all the required hardw
         --> Amazon.ca (Included with Pi kit)
   4) Standard breadboard (for testing purposes)
   
+  Next, you may want to attempt to read and interpret the sensor's datasheet to get an idea for the various setups and programming of the device. Please see below for an example setup using a testing breadboard surface, wire leads and a 3.3V to 5V (your choice) power supply:
   
+  [!mySafeUV]
