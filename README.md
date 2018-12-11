@@ -54,6 +54,56 @@ The first step you should take in programming your device is to detect the appro
 
 ![VEML6070 UV Index I2C Detection](https://github.com/pctn0007/mySafeUV/blob/master/Documentation/VEML6070_I2C_Detect.jpg)
 
-In order to detect your device, you can use the sample code listied below:
+In order to detect your device, you can use the terminal commands:
+
+	```
+sudo shutdown -h now
+sudo apt-get install i2c-tools
+sudo i2cdetect -y 1
+	```
 
 
+DETECT ACTUAL READINGS
+
+In order to detect actual readable values, the follow source code will provide you with a generic UV intensity values. Note, the output values are NOT actual UV index readings. It is important to read the VEML6070 datasheet in order to understand how to convert these values accordingly. For this instruction set, we are NOT using any additional resistors to lag the output.
+
+VEML6070.java sample source code:
+
+	```
+	import com.pi4j.io.i2c.I2CBus;
+	import com.pi4j.io.i2c.I2CDevice;
+	import com.pi4j.io.i2c.I2CFactory;
+	import java.io.IOException;
+
+	public class VEML6070
+	{
+		public static void main(String args[]) throws Exception
+		{
+
+			while(true)
+			{
+
+			// Create I2CBus
+			I2CBus bus = I2CFactory.getInstance(I2CBus.BUS_1);
+			// Get I2C device, VEML6070 I2C address is 0x38(56)
+			I2CDevice device = bus.getDevice(0x38);
+
+			// Select command register
+			// Integration time = 0.5T, shutdown mode disabled
+			device.write((byte)0x02);
+			Thread.sleep(500);
+
+			// Read 2 bytes of data
+			// uvlight msb, uvlight lsb
+			byte[] data = new byte[2];
+			data[0] = (byte)device.read(0x73);
+			data[1] = (byte)device.read(0x71);
+
+			// Convert the data
+			int uvlight = (((data[0] & 0xFF) * 256) + data[1] & 0xFF);
+
+			// Output data to screen
+		       System.out.printf("UV Light of The Device : %d %n", uvlight);
+			}
+		}
+	```
