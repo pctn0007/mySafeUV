@@ -62,8 +62,9 @@ sudo apt-get install i2c-tools
 sudo i2cdetect -y 1
 	```
 
-
-DETECT ACTUAL READINGS
+-----------------------------------------------------------------------------------
+READ ACTUAL VALUES
+-----------------------------------------------------------------------------------
 
 In order to detect actual readable values, the follow source code will provide you with a generic UV intensity values. Note, the output values are NOT actual UV index readings. It is important to read the VEML6070 datasheet in order to understand how to convert these values accordingly. For this instruction set, we are NOT using any additional resistors to lag the output.
 
