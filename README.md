@@ -60,11 +60,12 @@ The first step you should take in programming your device is to detect the appro
 
 In order to detect your device, you can use the terminal commands:
 
-	```
+```
 sudo shutdown -h now
 sudo apt-get install i2c-tools
 sudo i2cdetect -y 1
-	```
+
+```
 
 -----------------------------------------------------------------------------------
 READ ACTUAL VALUES
