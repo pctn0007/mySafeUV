@@ -119,6 +119,9 @@ After using the code above, you should see something that looks more like this o
 
 # Step 5 - Enclosure Design and Cutting:
 
+The final step may be a little bit difficult if you do not have 3D printer that costs significant amounts of money. Thus, I recommend taking final width, length and height dimensions for your finished deviced in order to search for a desired case to protect and mount to. It is important to keep in mind that the VEML6070 is a light sensor and requires direct access to light (i.e. sun light specifically). Ass a result, do not make the error as shown in the example below where the casing is a tinted black; thus, making it difficult for the sensor to detect and produce accurate data results.
+
+
 ![mySafeUV Case](https://github.com/pctn0007/mySafeUV/blob/master/Documentation/case1.jpg)
 
 ![mySafeUV Enclosure](https://github.com/pctn0007/mySafeUV/blob/master/Documentation/Pi2CaseX6.pdf)
