@@ -7,7 +7,6 @@ In today's society, there are many UVI detection devices. However, many skin can
 In this build instruction set, we will learn how to develop a simple, but effective UV Index sensing device that will not only detect the UV index of various light sources, it will display them in a readable format for any doctor, scientist, average Joe or student to recognize and interpret.
 
 #Step 1 - Planning and Design:
-To start, it is important to get an idea and make note of all the required hardware and/or material you may need. For this project, I have included the required components, as well as a potential aquiring source and total pricing (CAD):
 -----------------------------------------------------------------------------------
 PRIMARY HARDWARE:
 -----------------------------------------------------------------------------------
