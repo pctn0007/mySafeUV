@@ -107,3 +107,6 @@ VEML6070.java sample source code:
 			}
 		}
 	```
+After using the code above, you should see something that looks more like this on your display/output:
+
+![mySafeUV output](https://github.com/pctn0007/mySafeUV/blob/master/Documentation/mySafeUV_output.jpg)
