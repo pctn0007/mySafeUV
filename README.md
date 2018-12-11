@@ -39,9 +39,12 @@ Now that you have all your parts and you have determined how to connect your sen
 
 # Step 3 - Printing your boards and Soldering a Sensor:
 
-During this stage of development, it is important to focus much attention to detail and your fine motor skills, as soldering these smaller devices can be a challenge. Before soldering, I recommend making sure that all connections are seperated with no possilbe shorts (i.e. solding two or more sensor pins on one soldering line). To make this step a little easier, a youtube link below may assist in understanding how to start soldering. Note, you should always wear your saefty glasses and have a standard first aid kit near by. To solder, I recommend a temperature no more than 750 degrees C. Please see link below for further help:
+During this stage of development, it is important to focus much attention to detail and your fine motor skills, as soldering these smaller devices can be a challenge. Before soldering, I recommend making sure that all connections are seperated with no possilbe shorts (i.e. solding two or more sensor pins on one soldering line). To make this step a little easier, a youtube link below may assist in understanding how to start soldering. Note, you should always wear your saefty glasses and have a standard first aid kit near by. To solder, I recommend a temperature no more than 750 degrees C. Please see the link below for further help, as well as the provided image of a succesful (but noobie) soldering job.
 
  [![YouTube Soldering for Beginners](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=oqV2xU1fee8)
+
+
+![mySafeUV PCB](https://github.com/pctn0007/mySafeUV/blob/master/Documentation/20181120_124350_HDR.jpg)
 
 
 
